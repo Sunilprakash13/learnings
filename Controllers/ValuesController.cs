@@ -45,6 +45,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini Batch I Data Added");
             l.Add("second modfication");
             l.Add("Final Modification");
+            l.Add("Learning in progress");
             return l;
         }
     }
