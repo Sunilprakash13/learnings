@@ -47,7 +47,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Final Modification");
             l.Add("Learning in progress");
             l.Add("Docker");
-            l.Add("CI and CD Deployment")
+            l.Add("CI and CD Deployment");
             return l;
         }
     }
