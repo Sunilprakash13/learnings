@@ -46,6 +46,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("second modfication");
             l.Add("Final Modification");
             l.Add("Learning in progress");
+            l.Add("Docker")
             return l;
         }
     }
